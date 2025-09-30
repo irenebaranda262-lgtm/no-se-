@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Página de Ejemplo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f1f3f6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #4f8cff;
+            color: #fff;
+            padding: 30px 0;
+            text-align: center;
+        }
+        main {
+            max-width: 700px;
+            margin: 40px auto;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+            padding: 30px;
+        }
+        h1, h2 {
+            margin: 0 0 16px 0;
+        }
+        p {
+            font-size: 1.1em;
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            padding: 16px;
+            color: #888;
+            font-size: 0.95em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>¡Bienvenido a tu página web!</h1>
+    </header>
+    <main>
+        <h2>Gracias por visitar</h2>
+        <p>
+            Este es un ejemplo de una página web sencilla creada con HTML y CSS.
+            Puedes modificar este contenido para personalizar tu sitio.
+        </p>
+    </main>
+    <footer>
+        Hecho con ❤️ por irenebaranda262-lgtm
+    </footer>
+</body>
+</html>
